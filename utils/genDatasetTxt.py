@@ -6,37 +6,48 @@ class_2_dir=''
 filepath=''
 
 # train
-
-class_0_dir = 'D:\\dataset\\image-classify\\train\\n'
-class_1_dir = 'D:\\dataset\\image-classify\\train\\p'
-class_2_dir = 'D:\\dataset\\image-classify\\train\\s'
-filepath = '../datalist/train.txt'
+#
+# class_0_dir = 'D:\\dataset\\image-classify\\train\\n'
+# class_1_dir = 'D:\\dataset\\image-classify\\train\\p'
+# class_2_dir = 'D:\\dataset\\image-classify\\train\\s'
+# filepath = '../datalist/train.txt'
 
 #validation
 
 # class_0_dir = 'd:\dataset\\image-classify\\validation\\n'
-# filepath = '../datalist/n-validation.txt'
+# filepath = '../datalist/n-val.txt'
 
 # class_1_dir = 'D:\dataset\\image-classify\\validation\\p'
-# filepath = '../datalist/p-validation.txt'
+# filepath = '../datalist/p-val.txt'
 #
 # class_2_dir = 'D:\dataset\\image-classify\\validation\\s'
-# filepath = '../datalist/s-validation.txt'
+# filepath = '../datalist/s-val.txt'
 
 #test
 
-# class_0_dir = 'D:\dataset\\image-classify\\s-part1'
-# filepath = '../datalist/n-test.txt'
+class_0_dir = 'D:\dataset\\image-classify\\hupu'
+filepath = '../datalist/classify.txt'
 
-# class_1_dir = 'D:\dataset\\image-classify\\downSamples-part4'
-# filepath = '../datalist/p-test4.txt'
+# class_2_dir = 'D:\dataset\\image-classify\\testout\\s'
+# filepath = '../datalist/s.txt'
+
+
+# class_2_dir = 'D:\dataset\\image-classify\\s-part1'
+# filepath = '../datalist/s-test.txt'
+
 
 # 过滤训练集
-# class_1_dir = 'D:\dataset\\image-classify\\train\\p'
-# filepath = '../datalist/p-train.txt'
 
 # class_0_dir = 'D:\\dataset\\image-classify\\train\\n'
 # filepath = '../datalist/n-train.txt'
+
+# class_1_dir = 'D:\dataset\\image-classify\\train\\p'
+# filepath = '../datalist/p-train.txt'
+
+# class_2_dir = 'D:\\dataset\\image-classify\\train\\s'
+# filepath = '../datalist/s-train.txt'
+
+
 
 
 
